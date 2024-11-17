@@ -1,4 +1,4 @@
-Sure! Here's a brief explanation of your project on the MNIST digit classifier using Artificial Neural Networks (ANN):
+Here's a brief explanation of your project on the MNIST digit classifier using Artificial Neural Networks (ANN):
 
 ### Project Overview: MNIST Digit Classifier
 
